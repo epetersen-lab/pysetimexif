@@ -20,6 +20,9 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
+[project.urls]
+Home = "https://github.com/epetersen-lab/pysetimexif"
+
 [project.scripts]
 pysetimexif = "pysetimexif.pysetimexif:main"
 
