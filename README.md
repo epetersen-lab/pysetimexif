@@ -6,13 +6,13 @@ Supported formats: Same as ExifRead. Currently TIFF, JPEG, PNG, Webp and HEIC.
 ## Installation
 
 ```
-pip install pysetimexif-1.0.0-py3-none-any.whl
+pip install pysetimexif
 ```
 
 or
 
 ```
-pipx install pysetimexif-1.0.0-py3-none-any.whl
+pipx install pysetimexif
 ```
 
 ## Usage
