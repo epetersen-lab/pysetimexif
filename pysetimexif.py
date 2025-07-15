@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 
 import exifread
 
-from pysetimexif import __version__
+__version__ = "1.0.2"
 
 logger = logging.getLogger("exifread").addHandler(logging.NullHandler())
 
