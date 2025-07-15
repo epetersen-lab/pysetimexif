@@ -2,7 +2,7 @@ import os
 import unittest
 import unittest.mock as mock
 
-from pysetimexif import pysetimexif
+import pysetimexif
 
 
 class PysetimexifUnitTests(unittest.TestCase):
